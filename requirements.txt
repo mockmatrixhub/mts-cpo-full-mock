@@ -1,1 +1,8 @@
-python-telegram-bot
+telegram
+python-telegram-bot==20.8
+curl-cffi
+cloudscraper
+playwright
+fake-useragent
+flask
+httpx
