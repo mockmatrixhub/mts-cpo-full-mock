@@ -19,7 +19,7 @@ from fake_useragent import UserAgent
 ua = UserAgent(browsers=['chrome'], os=['windows', 'macos'], platforms=['pc', 'mobile'])
 
 # ==================== PUT YOUR TELEGRAM BOT TOKEN HERE ====================
-BOT_TOKEN = "8559697669:AAFGp7tB7W3P050tehf2CUyLzB7VZUTbvGI"   # ← CHANGE THIS
+BOT_TOKEN = "8527995328:AAGqbxg0UKQzZSiBYXBzutHjLnVbcck_zNw"   # ← CHANGE THIS
 # ===========================================================================
 
 # Optional: Add your own Indian residential proxies (one per line) - increases success to 99.9%
