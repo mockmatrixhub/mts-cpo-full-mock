@@ -1,7 +1,4 @@
-python-telegram-bot==20.8
-curl-cffi==0.6.2
-cloudscraper==1.2.71
-playwright==1.40.0
-fake-useragent==1.4.0
-httpx==0.25.2
-requests==2.31.0
+python-telegram-bot[all]==20.8
+curl-cffi
+cloudscraper
+playwright
